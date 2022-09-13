@@ -10,8 +10,6 @@ function Register() {
         navigate("/login");
     }
 
-    
-
     return (
         <>
             <body>
